@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav-bar{
+    padding: 20px;
+    color: cyan;
+    text-align: center;
+    display: flex;
+    min-height: 10vh;
+}
+.footer{
+    background-color: goldenrod;
+    color: rgb(255, 60, 0);
+    text-align: center;
+    min-height: 10vh;
+}
+.login-body{
+    background-color: greenyellow;
+    color: white;
+    text-align: center;
+    min-height: 90vh; 
+    padding: 16px;
+}
+.Search-body{
+    background-color: greenyellow;
+    color: white;
+    text-align: center;
+    min-height: 90vh; 
+    padding: 16px;
+}
+.input-container{
+    margin: 20px auto;
+    padding: 15px;
+    background-color: gold;
+    border: 5px solid black ;
+    width: 500px;
+}
+
